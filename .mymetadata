@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sprint"
+  id="myeclipse.1214467971406"
+  context-root="/sprint"
+  j2ee-spec="1.4"
+  archive="sprint.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
